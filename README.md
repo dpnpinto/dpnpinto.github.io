@@ -1,2 +1,8 @@
 # dpnpinto.github.io
-Public site with nice information
+
+Gosto de compartilhar as minhas publicações no GitHub com os meus colegas e amigos. No GitHub podemos criar repositórios para armazenar projetos de código aberto, colaborar com outros desenvolvedores, e receber feedback da comunidade.
+Aqui estão alguns exemplos de pedaços de código que eu usei nas minhas configurações e memorandos de trabalhos realizados.
+
+Espero que se divirtam com a tecnologia como eu.
+
+DP
