@@ -1,4 +1,4 @@
-# Duarte Pedro Pinto @ [dpnpinto github](https://github.com/dpnpinto/)
+# Duarte Pedro Pinto @ [github](https://github.com/dpnpinto/)
 
 ![Duarte Pedro Pinto](https://avatars.githubusercontent.com/u/49436188?v=4) 
 
