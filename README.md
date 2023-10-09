@@ -10,9 +10,9 @@ My goal is to contribute to the advancement of science and technology through my
 
 ## Some nice projects that I work for
 
-*	First Data Warehouse in the Azores with an OLAP system available on Internet - ![https://srea.azores.gov.pt]https://srea.azores.gov.pt
+*	First Data Warehouse in the Azores with an OLAP system available on Internet - https://srea.azores.gov.pt
 
-*	Migration of all sites from Azores Schools to an Open Source CRM platform - ![https://edu.azores.gov.pt]https://edu.azores.gov.pt
+*	Migration of all sites from Azores Schools to an Open Source CRM platform - https://edu.azores.gov.pt
 
 *	Reorganization, upgrade and migration of all Azores Scholls network's to attend new levels quality and needs
 
@@ -27,4 +27,4 @@ My goal is to contribute to the advancement of science and technology through my
 *	Electronic, communications and computer systems
 
 ## My most important achievement
-* ![https://jpnt.github.io]https://jpnt.github.io
+* https://jpnt.github.io
