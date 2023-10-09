@@ -12,7 +12,7 @@ My goal is to contribute to the advancement of science and technology through my
 
 *	First Data Warehouse in the Azores with an OLAP system available on Internet - [https://srea.azores.gov.pt](https://srea.azores.gov.pt)
 
-*	Migration of all sites from Azores Schools to an Open Source CRM platform - https://edu.azores.gov.pt
+*	Migration of all sites from Azores Schools to an Open Source CRM platform - [https://edu.azores.gov.pt](https://edu.azores.gov.pt)
 
 *	Reorganization, upgrade and migration of all Azores Scholls network's to attend new levels of quality and needs
 
