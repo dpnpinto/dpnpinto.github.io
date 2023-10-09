@@ -1,7 +1,7 @@
 # Duarte Pedro Pinto @ [dpnpinto github](https://github.com/dpnpinto/)
 
-Gosto de compartilhar as minhas publicações no GitHub com os meus colegas e amigos. No GitHub podemos criar repositórios para armazenar projetos de código aberto, colaborar com outros e receber feedback de toda a comunidade.
-Aqui estão alguns exemplos de excertos de código que eu utizei nas minhas configurações, projetos e memorandos de trabalhos realizados.
+![Duarte Pedro Pinto](https://avatars.githubusercontent.com/u/49436188?v=4) 
 
-
-Espero que se divirtam  tanto com a tecnologia como eu ;)
+Hello, my name is Duarte Pedro Pinto and I am an electronics and telecommunications engineer. I have been passionate about technology since I received I can remember me, a receive a zx spectrum 48k as a child and have never stopped working with electronics, telecommunications, and computing.
+I have experience in designing, developing, and testing electronic and communication systems for various applications. I also enjoy learning new tools and programming languages to solve complex and challenging problems.
+My goal is to contribute to the advancement of science and technology through my passion and knowledge.
