@@ -1,4 +1,4 @@
-<span style="color:gree">
+<span style="color:gree;background-color:black">
 # Duarte Pedro Pinto @ [Github](https://github.com/dpnpinto/)
 
 ![Duarte Pedro Pinto](https://avatars.githubusercontent.com/u/49436188?v=4) 
