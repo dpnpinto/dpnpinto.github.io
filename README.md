@@ -1,5 +1,4 @@
 <span style="color:green;background-color:black">
-<font color="red">This text is red!</font>
 
 # Duarte Pedro Pinto @ [Github](https://github.com/dpnpinto/)
 
