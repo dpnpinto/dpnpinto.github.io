@@ -17,7 +17,7 @@ My goal is to contribute to the advancement of science and technology through my
 
 *	Reorganization, upgrade and migration of all Azores Schools network's to attend new levels of quality and needs
 
-*	Developing of a new monitoring and elert system, in Open Source, for all Azores education assets
+*	Developing of a new monitoring and elert system, in Open Source ([Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com)), for all Azores education assets
 
 ## Interest and work in progress
 
