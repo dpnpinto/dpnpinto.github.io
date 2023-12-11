@@ -1,4 +1,6 @@
-<span style="color:gree;background-color:black">
+<span style="color:green;background-color:black">
+<font color="red">This text is red!</font>
+
 # Duarte Pedro Pinto @ [Github](https://github.com/dpnpinto/)
 
 ![Duarte Pedro Pinto](https://avatars.githubusercontent.com/u/49436188?v=4) 
