@@ -14,7 +14,7 @@ My goal is to contribute to the advancement of science and technology through my
 
 *	Migration of all sites from Azores Schools to an Open Source CRM platform - [https://edu.azores.gov.pt](https://edu.azores.gov.pt)
 
-*	Developing of a new monitoring and elerting system, based in Open Source ([Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com)), for all Azores education assets, via [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) protocol - [NMS - Escolas](https://github.com/dpnpinto/Prometheus)
+*	Developing of a new monitoring and elerting system, based in Open Source ([Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com)), for all Azores education assets, via [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) protocol - [Network Monitoring Schools - Azores Schools](https://github.com/dpnpinto/Prometheus)
   
 *	Planning reorganize, upgrade and migrate the passive and active networks of all Azores Schools to meet the new quality standards and requirements. This project will improve the connectivity, security and performance of the schools' IT infrastructure and services
 
