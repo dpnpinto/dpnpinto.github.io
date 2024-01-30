@@ -1,9 +1,5 @@
-<style>
-body {
-  color: white;
-  background-color: black;
-}
-</style>
+<span <style> body {color: white; background-color: black;} </style> </span>
+
 
 # Duarte Pedro Pinto @ [Github](https://github.com/dpnpinto/)
 
