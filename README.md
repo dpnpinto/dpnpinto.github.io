@@ -26,4 +26,4 @@ My goal is to contribute to the advancement of science and technology through my
 *	Electronic, communications and computer systems
 
 ## My most important achievement
-* [https://jpnt.github.io](https://jpnt.github.io)
+* [https://jpnt.github.io](https://jpnt.github.io/about/)
