@@ -10,7 +10,7 @@ My goal is to contribute to the advancement of science and technology through my
 
 ## Some nice projects that I work for
 
-*	First [https://www.visitazores.com](Azores) Data Warehouse with an OLAP(Online Analytical Processing) system available on Internet - [https://srea.azores.gov.pt](https://srea.azores.gov.pt)
+*	First [Azores](https://www.visitazores.com) Data Warehouse with an OLAP(Online Analytical Processing) system available on Internet - [https://srea.azores.gov.pt](https://srea.azores.gov.pt)
 *	Development of an organizational intranet for the Information and Telecommunications Department, with contact information and a knowledge base for better management of the IT and communications infrastructure of the Regional Department of Education
 *	Migration of all sites from Azores Schools to an Open Source CRM(Customer Relationship Management) platform - [https://edu.azores.gov.pt](https://edu.azores.gov.pt)
 *	New arquitecture and new implementation in [docker containers](https://www.docker.com/) for the [Moodle(Modular Object-Oriented Dynamic Learning Environment)](https://moodle.org/) for all Azores Schools
