@@ -1,4 +1,4 @@
-# Duarte Pedro Pinto @ [Github](https://github.com/dpnpinto/) @ [YouTube](https://www.youtube.com/@dpinto.engenharia/)
+# Duarte Pedro Pinto @ [Github](https://github.com/dpnpinto/) @ [YouTube](https://www.youtube.com/@dpinto.engenharia/sub_confirmation=1)
 
 ![Duarte Pedro Pinto](https://avatars.githubusercontent.com/u/49436188?v=4) 
 
