@@ -14,7 +14,7 @@ My goal is to contribute to the advancement of science and technology through my
 *	Development of an organizational intranet for the Information and Telecommunications Department, with contact information and a knowledge base for better management of the IT and communications infrastructure of the Regional Department of Education
 *	Migration of all sites from Azores Schools to an Open Source CRM(Customer Relationship Management) platform - [https://edu.azores.gov.pt](https://edu.azores.gov.pt)
 *	New arquitecture and new implementation in [docker containers](https://www.docker.com/) for the [Moodle(Modular Object-Oriented Dynamic Learning Environment)](https://moodle.org/) for all Azores Schools
-*	Developing of a new monitoring and alerting system, based in Open Source ([Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com)), for all Azores education assets, via [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) protocol - [Network Monitoring Schools](https://github.com/dpnpinto/Prometheus)
+*	Developing of a new monitoring and alerting system, based in Open Source ([Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com)), for all Azores education assets, via [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) protocol - [Network Monitoring Schools](https://github.com/dpnpinto/PintoNMS)
   
 *	Planning reorganize, upgrade and migrate the passive and active networks of all Azores Schools to meet the new quality standards and requirements. This project will improve the connectivity, security and performance of the schools' IT infrastructure and services
 
