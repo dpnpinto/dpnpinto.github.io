@@ -5,8 +5,32 @@
     <link rel="self" type="application/atom+xml" href="https://dpnpinto.github.io/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://dpnpinto.github.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-06-04T00:00:00+00:00</updated>
+    <updated>2026-07-01T00:00:00+00:00</updated>
     <id>https://dpnpinto.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Linux 7.1 is here</title>
+        <published>2026-07-01T00:00:00+00:00</published>
+        <updated>2026-07-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Duarte Pedro Pinto
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dpnpinto.github.io/posts/third-post/"/>
+        <id>https://dpnpinto.github.io/posts/third-post/</id>
+        
+        <content type="html" xml:base="https://dpnpinto.github.io/posts/third-post/">&lt;p&gt;&lt;code&gt;Linux 7.1&lt;&#x2F;code&gt; Has Dropped, and &lt;code&gt;AI&lt;&#x2F;code&gt; is Under the Hood 🐧
+The highly anticipated Linux 7.1 update is officially live, bringing a massive milestone for software development. For this release, &lt;code&gt;Artificial Intelligence&lt;&#x2F;code&gt; was deployed to debug the kernel—a massive architecture that now spans over &lt;code&gt;43 million lines of code&lt;&#x2F;code&gt;. This is an incredible &lt;code&gt;showcase of how AI is transforming complex engineering&lt;&#x2F;code&gt;, optimizing the very core of the world&#x27;s most widely used operating system.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;kernel.org&quot;&gt;Linux Kernel&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Projects using a Pi</title>
         <published>2026-06-04T00:00:00+00:00</published>
