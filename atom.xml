@@ -36,6 +36,7 @@
 &lt;p&gt;I think the Binary Revolution (Zero Compile-Time Gatekeeping) is the secret weapon that changes the adoption game: Gentoo is a fully capable binary distribution.&lt;&#x2F;p&gt;
 &lt;p&gt;You no longer have to sacrifice an entire afternoon to build rust, llvm, or firefox. Gentoo’s official binary package repositories (gentoo-binhost) serve pre-compiled packages directly. By simply enabling getbinpkg in your make.conf, Portage becomes smart enough to resolve dependencies and pull the binary versions of massive packages, while still compiling what you desire from source.&lt;&#x2F;p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;WJpu2EqM2Xw?si=SdwnPXICJ0iUe866&quot;&gt;Youtube&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dpnpinto&#x2F;Pintoo&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
