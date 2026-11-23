@@ -5,8 +5,39 @@
     <link rel="self" type="application/atom+xml" href="https://dpnpinto.github.io/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://dpnpinto.github.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-09-29T00:00:00+00:00</updated>
+    <updated>2026-11-23T00:00:00+00:00</updated>
     <id>https://dpnpinto.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Nostalgic &amp; Punchy: Back from the Future: Learning Linux on a 2008 Magalhães</title>
+        <published>2026-11-23T00:00:00+00:00</published>
+        <updated>2026-11-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Duarte Pedro Pinto
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dpnpinto.github.io/posts/sixth-post/"/>
+        <id>https://dpnpinto.github.io/posts/sixth-post/</id>
+        
+        <content type="html" xml:base="https://dpnpinto.github.io/posts/sixth-post/">&lt;h2 id=&quot;what-is-this-magalhaes&quot;&gt;What is this Magalhães&lt;&#x2F;h2&gt;
+&lt;p&gt;The &lt;code&gt;Magalhães&lt;&#x2F;code&gt; (named after the famous 16th-century Portuguese explorer Ferdinand Magellan, or Fernão de Magalhães) was a rugged, low-cost children&#x27;s laptop that became a cultural phenomenon in Portugal in the late 2000s.
+Origins and Purpose
+Launched in September 2008 under the Portuguese government&#x27;s e-escolinha initiative (part of the broader Technological Plan for Education), the laptop was designed to bridge the digital divide and put a personal computer into the hands of every primary school student (1st to 4th grade).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;legacy-and-international-export&quot;&gt;Legacy and International Export&lt;&#x2F;h2&gt;
+&lt;p&gt;While subsequent studies noted that the laptops were often underutilized inside actual classrooms due to a lack of teacher training and digital infrastructure, the Magalhães succeeded in &lt;code&gt;bringing internet access and computing into hundreds of thousands of Portuguese homes for the very first time&lt;&#x2F;code&gt;. Its rugged design also became a Portuguese export, with hundreds of thousands of units shipped to countries like Venezuela, Bolivia, and Argentina.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-i-m-doing-with-it&quot;&gt;What I&#x27;m doing with it&lt;&#x2F;h2&gt;
+&lt;p&gt;Today, more than 18 years after its debut, that iconic little machine is far from obsolete. I am actually &lt;code&gt;using a Magalhães right now to navigate the Linux&lt;&#x2F;code&gt; and proving that this classic piece of Portuguese tech still gets the job done!&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;5rLZKwBe8Ug?si=44yNFJkB5zolUxIs&quot;&gt;Youtube&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dpnpinto&#x2F;PintoMag&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Gentoo for All: My Personal easy install of Gentoo (Meet Pintoo!)</title>
         <published>2026-09-29T00:00:00+00:00</published>
@@ -64,7 +95,7 @@
 &lt;p&gt;This isn&#x27;t just about calling an external API; it&#x27;s about getting under the hood. Running my own &lt;code&gt;AI locally&lt;&#x2F;code&gt; gives me the freedom to dive into the architecture, optimize parallel matrix calculations using raw C and CUDA, and truly understand how the underlying models operate. It perfectly bridges my passion for hardcore system administration and artificial intelligence.&lt;&#x2F;p&gt;
 &lt;p&gt;In my latest video, I roll up my sleeves and walk you through how I built and deployed Zezoca on my Arch Linux System. If you want to see what happens when the &lt;code&gt;minimalist Linux philosophy meets AI&lt;&#x2F;code&gt;, check out the video or github below!&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=tPE8WkHRAcs&quot;&gt;Youtube Video&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=tPE8WkHRAcs&quot;&gt;Youtube&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dpnpinto&#x2F;PintoPAI&#x2F;tree&#x2F;main&#x2F;zezoca&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
